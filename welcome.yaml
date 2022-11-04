@@ -1,5 +1,4 @@
 - type: embed
-  text: Hello, world!
 
   embeds:
     - description: This is the first embed
@@ -9,3 +8,10 @@
     - description: This one is the second embed
       title: Second embed
       color: 0x00FF00
+- type: links
+  title: Useful Links
+
+  links:
+    Discord: https://discord.com
+    Google: https://google.com
+    Notion: https://notion.so
