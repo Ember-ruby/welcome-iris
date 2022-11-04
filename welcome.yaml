@@ -60,4 +60,9 @@
       
         These rules are based on the rules of the CaffeineMC Discord.
 
+    - title: "List of topics to avoid discussing:"
+
+      description: >-
+        Mojang's new chat report system.
+
     - color: 0x2ecc71
