@@ -1,4 +1,11 @@
-- type: text
-  text: "Hello, world!"
-- type: text
-  text: "Hello, world!"
+- type: embed
+  text: Hello, world!
+
+  embeds:
+    - description: This is the first embed
+      title: First embed
+      color: 0xFF0000
+
+    - description: This one is the second embed
+      title: Second embed
+      color: 0x00FF00
