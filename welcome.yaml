@@ -8,6 +8,7 @@
     - description: This one is the second embed
       title: Second embed
       color: 0x00FF00
+      
 - type: links
   title: Useful Links
 
