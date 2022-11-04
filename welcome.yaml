@@ -12,8 +12,8 @@
 
         In accordance with the goals set, we have established the following set of rules:
 
-      color: 0x2ecc71
-      
+      color: 0x212223
+
 - type: rules
   
   rules:
@@ -68,4 +68,4 @@
       description: >-
         Mojang's new chat report system.
 
-      color: 0x2ecc71
+      color: 0x4c2020
